@@ -1,17 +1,27 @@
 # CS5710 - Machine Learning 
-# (Assignment # 1)
+<h3> (Assignment # 1) </h3>
 Repo for Assignment1 of Machine learning course - CRN23922
 
 
 
-
+<h3>
 NAME: - Maruthi Pavan Surya Kande
+</h3>
+<h3>
 Program: - MS in computer science
+</h3>
+<h3>
+course - CS5710 MACHINE LEARNING
+</h3>
+<h3>
 700#: - 700747215
+</h3>
+<h3>
 CRN: - CRN23922
+</h3>
+<h3>
 Video link: - 
-
-
+</h3>
 
 
 # Question 1 – 
