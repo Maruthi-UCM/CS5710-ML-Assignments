@@ -1,4 +1,5 @@
-#CS5710 - Machine Learning (Assignment # 1)
+# CS5710 - Machine Learning 
+# (Assignment # 1)
 Repo for Assignment1 of Machine learning course - CRN23922
 
 
@@ -13,7 +14,8 @@ Video link: -
 
 
 
-Question 1 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-1/Que-1.ipynb
+# Question 1 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-1/Que-1.ipynb
 
 Initialize the list ‘ages’ as given, ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
  
@@ -26,7 +28,8 @@ Next to find the Median of the list and Average age of the list, we can import S
 Next, to find the range of the list we can use the previously found minimum and maximum values of the list.
  
 
-Question 2 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-1/Que-2.ipynb
+# Question 2 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-1/Que-2.ipynb
 
 First, we create an empty dictionary ‘dog’ using the empty curly braces ‘{}’ or inbuilt function ‘dict()’ with no arguments. Then to add different key-value pairs for ‘name, color, breed, legs, age’ to the dictionary we assign them using ‘=’ operator.
  
@@ -40,7 +43,8 @@ To modify the value of a key in the dictionary we can use ‘=’ operator and a
 To get the list of keys and values from a dictionary, we can use ‘.keys()’ and ’.values()’ methods. They return the iterable object of types ‘dict_keys’,’dict_values’ respectively. To convert them into a list we use inbuilt function ‘list()’.
  
 
-Question 3 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-3.ipynb
+# Question 3 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-3.ipynb
 
 To initialize a tuple, we can use parenthesis ‘()’ and give values inside the braces separated by ‘,’. Even if there is only one value, we need to give a comma’,’ after the value. Here we have initialized two tuples ‘brothers’, ‘sisters’
  
@@ -50,7 +54,8 @@ To create ‘familiy_members’ tuple with ‘father, mother and siblings’, we
  
 
 
-Question 4 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-4.ipynb
+# Question 4 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-4.ipynb
 
 First, we initialize the given sets ‘it_companies, A, B’ and list ‘age’. We can create a set using curly braces ‘{}’ or we can use ‘set()’ function. To create a list we can use square braces ‘[]’ or ‘list()’ function.
 Next to find the length of the set ‘it_companies’, we can use ‘len()’ function. To add single value to the set, we can use ‘.add()’ method of the set with value given in ‘()’ braces.
@@ -72,7 +77,8 @@ Here also since the list ‘age’ has some duplicates we have difference in len
 The difference here is 3 (since values ‘24, 25’ are repeated in the list).
 
 
-Question 5 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-5.ipynb
+# Question 5 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-5.ipynb
 
 First we initialize a variable ‘radius’ by assigning the input provided by the user to it.
 To read the input we can use ‘input()’ function in python. 
@@ -83,7 +89,8 @@ Next, to find the area of the circle (Pi*radius*radius) we can use the mathemati
 Similarly, we can use mathematical operators and find the circumference of the circle and assign it to a variable.
  
 
-Question 6 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-6.ipynb
+# Question 6 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-6.ipynb
 
 First, we initialize the given string and assign it to a variable. After that to find the number of words present in the given string we use ‘.split()’ method of the string and split using space character as a delimiter.
 This will give us an iterable object with all the words present in the string. We can use ‘list()’ function and type cast the object into list type.
@@ -91,7 +98,8 @@ Now, to get the number of unique words present in the string we can use ‘set()
 
  
 
-Question 7 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-7.ipynb
+# Question 7 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-7.ipynb
 
 Here first we initialize the string and assign it to a variable. We can use double quotes (“”) for creating a string. 
 Now to achieve the format specified we need to escape sequences in the string. To achieve a tab space, we can give ‘/t’ escape sequence and to achieve a new line we can use’/n’ escape sequence in the string.
@@ -99,8 +107,8 @@ Whenever the complier reads a ‘/’ it assumes it as an escape sequence and in
 
  
 
-
-Question 8 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-8.ipynb
+# Question 8 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-8.ipynb
 
 First, we initialize the value for radius, next we calculate the area of circle using the mathematical operators and assign it to the variable ‘area’.
 Now, to print the output in the given format we make use of string method ‘.format()’. Whenever we need to print some values of non-string datatype variables in a string we can make use of this method.
@@ -109,7 +117,8 @@ We can also specify the position of the variable need to be used in the curly br
  
 
 
-Question 9 – Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-9.ipynb
+# Question 9 – 
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/cf4ef06b3f1c187f61e7ff8ee5eb1b43bf5e11dc/Assignment-1/Que-9.ipynb
 
 First, we read the number of students present from the user as an input and assign it to a variable ‘N’ using ‘input()’ function.
 Now, we initialize an empty list ‘weights_lb’ to store weights of N students.
@@ -120,7 +129,9 @@ Next by using a for loop and iterating over each element in ‘weights_lb’ lis
 To store these values (in kgs) to the list ‘weights_kg’ we can make use of ‘.append()’ method and store each value respectively after conversion from pounds to kilos.
  
 
-Question 10 –
+# Question 10 –
+![image](https://user-images.githubusercontent.com/123269364/214142590-66b270b8-725c-480b-88f5-fc4cb252f6e3.png)
+
 
 Given data set and the respective labels are as following:
 Data = [1,2,3,6,6,7,10,11]
