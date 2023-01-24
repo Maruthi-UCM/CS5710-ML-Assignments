@@ -14,6 +14,9 @@ Program: - MS in computer science
 course - CS5710 MACHINE LEARNING
 </h3>
 <h3>
+Professor: - Muhammad Zubair Khan
+</h3>
+<h3>
 700#: - 700747215
 </h3>
 <h3>
