@@ -20,7 +20,7 @@ course - CS5710 MACHINE LEARNING
 CRN: - CRN23922
 </h3>
 <h3>
-Video link: - 
+Video link: - https://drive.google.com/file/d/1jIYHiKTECZw0pIOizM3_Zf5FKTf_vjS4/view?usp=sharing
 </h3>
 
 
