@@ -1,5 +1,5 @@
 # CS5710 - Machine Learning 
-<h3> (Assignment # 1) </h3>
+<h3> (Programming Assignment # 1) </h3>
 Repo for Assignment1 of Machine learning course - CRN23922
 
 
