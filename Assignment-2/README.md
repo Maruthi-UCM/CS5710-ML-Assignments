@@ -26,22 +26,21 @@ CRN: - CRN23922
 
 
 # Question 1 – 
-
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-2/Que-1.ipynb
  
 
 # Question 2 – 
-
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-2/Que-2.ipynb
  
 
 # Question 3 – 
-
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-2/Que-3.ipynb
  
 
-
 # Question 4 – 
-
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-2/Que-4.ipynb
 
 
 # Question 5 – 
-
+Source code git link: https://github.com/Maruthi-UCM/CS5710-ML-Assignments/blob/main/Assignment-2/Que-5.ipynb
  
